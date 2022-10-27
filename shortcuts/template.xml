@@ -1389,6 +1389,41 @@
             <property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-TMDBMovies">plugin://plugin.video.themoviedb.helper?info=search&amp;type=movie&amp;query=</property>
             <property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-TMDBShows">plugin://plugin.video.themoviedb.helper?info=search&amp;type=tv&amp;query=</property>
             <property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-TMDBPeople">plugin://plugin.video.themoviedb.helper?info=search&amp;type=person&amp;query=</property>
+			
+			
+            <property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-EmbyconMovies">plugin://plugin.video.embycon/?item_type=Movie&amp;mode=NEW_SEARCH&amp;query=</property>
+			<property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-EmbyconShows">plugin://plugin.video.embycon/?item_type=Series&amp;mode=NEW_SEARCH&amp;query=</property>
+			<property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-EmbyconEpisode">plugin://plugin.video.embycon/?item_type=Episode&amp;mode=NEW_SEARCH&amp;query=</property>
+			
+			<property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-EmbyconcloneMovies">plugin://plugin.video.embyconclone/?item_type=Movie&amp;mode=NEW_SEARCH&amp;query=</property>
+			<property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-EmbyconcloneShows">plugin://plugin.video.embyconclone/?item_type=Series&amp;mode=NEW_SEARCH&amp;query=</property>
+			<property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-EmbyconcloneEpisode">plugin://plugin.video.embyconclone/?item_type=Episode&amp;mode=NEW_SEARCH&amp;query=</property>
+			
+			<property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-Embyconclone2Movies">plugin://plugin.video.embyconclone2/?item_type=Movie&amp;mode=NEW_SEARCH&amp;query=</property>
+			<property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-Embyconclone2Shows">plugin://plugin.video.embyconclone2/?item_type=Series&amp;mode=NEW_SEARCH&amp;query=</property>
+			<property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-Embyconclone2Episode">plugin://plugin.video.embyconclone2/?item_type=Episode&amp;mode=NEW_SEARCH&amp;query=</property>
+			
+			<property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-Embyconclone3Movies">plugin://plugin.video.embyconclone3/?item_type=Movie&amp;mode=NEW_SEARCH&amp;query=</property>
+			<property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-Embyconclone3Shows">plugin://plugin.video.embyconclone3/?item_type=Series&amp;mode=NEW_SEARCH&amp;query=</property>
+			<property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-Embyconclone3Episode">plugin://plugin.video.embyconclone3/?item_type=Episode&amp;mode=NEW_SEARCH&amp;query=</property>
+			
+			<property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-Embyconclone4Movies">plugin://plugin.video.embyconclone4/?item_type=Movie&amp;mode=NEW_SEARCH&amp;query=</property>
+			<property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-Embyconclone4Shows">plugin://plugin.video.embyconclone4/?item_type=Series&amp;mode=NEW_SEARCH&amp;query=</property>
+			<property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-Embyconclone4Episode">plugin://plugin.video.embyconclone4/?item_type=Episode&amp;mode=NEW_SEARCH&amp;query=</property>
+			
+			<property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-Embyconclone5Movies">plugin://plugin.video.embyconclone5/?item_type=Movie&amp;mode=NEW_SEARCH&amp;query=</property>
+			<property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-Embyconclone5Shows">plugin://plugin.video.embyconclone5/?item_type=Series&amp;mode=NEW_SEARCH&amp;query=</property>
+			<property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-Embyconclone5Episode">plugin://plugin.video.embyconclone5/?item_type=Episode&amp;mode=NEW_SEARCH&amp;query=</property>
+			
+			<property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-Embyconclone6Movies">plugin://plugin.video.embyconclone6/?item_type=Movie&amp;mode=NEW_SEARCH&amp;query=</property>
+			<property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-Embyconclone6Shows">plugin://plugin.video.embyconclone6/?item_type=Series&amp;mode=NEW_SEARCH&amp;query=</property>
+			<property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-Embyconclone6Episode">plugin://plugin.video.embyconclone6/?item_type=Episode&amp;mode=NEW_SEARCH&amp;query=</property>
+			
+			<property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-Embyconclone7Movies">plugin://plugin.video.embyconclone7/?item_type=Movie&amp;mode=NEW_SEARCH&amp;query=</property>
+			<property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-Embyconclone7Shows">plugin://plugin.video.embyconclone7/?item_type=Series&amp;mode=NEW_SEARCH&amp;query=</property>
+			<property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-Embyconclone7Episode">plugin://plugin.video.embyconclone7/?item_type=Episode&amp;mode=NEW_SEARCH&amp;query=</property>
+			
+			<property name="widgetPath" tag="property" attribute="name|list" value="DefaultSearch-HBO">plugin://plugin.video.hbogoeu/?mode=4&amp;name=New%20search&amp;url=INTERNAL_SEARCH&amp;query=</property>
             <property name="widgetPath" tag="property" attribute="name|list"/>
 
             <property name="widgetLimit" tag="property" attribute="name|widgetLimit" />

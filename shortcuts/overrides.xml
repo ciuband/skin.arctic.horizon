@@ -444,6 +444,31 @@
         <shortcut label="TMDb Movies" type="571" icon="special://skin/extras/icons/film.png">DefaultSearch-TMDBMovies</shortcut>
         <shortcut label="TMDb Shows" type="571" icon="special://skin/extras/icons/tv.png">DefaultSearch-TMDBShows</shortcut>
         <shortcut label="TMDb People" type="571" icon="special://skin/extras/icons/person3.png">DefaultSearch-TMDBPeople</shortcut>
+		<shortcut label="Embycon Movies" type="571" icon="special://skin/extras/icons/embycon.png">DefaultSearch-EmbyconMovies</shortcut>
+		<shortcut label="Embycon TVShows" type="571" icon="special://skin/extras/icons/embycon.png">DefaultSearch-EmbyconShows</shortcut>
+		<shortcut label="Embycon Episode" type="571" icon="special://skin/extras/icons/embycon.png">DefaultSearch-EmbyconEpisode</shortcut>
+		<shortcut label="EmbyconClone Movies" type="571" icon="special://skin/extras/icons/embycon.png">DefaultSearch-EmbyconcloneMovies</shortcut>
+		<shortcut label="EmbyconClone TVShows" type="571" icon="special://skin/extras/icons/embycon.png">DefaultSearch-EmbyconcloneShows</shortcut>
+		<shortcut label="EmbyconClone Episode" type="571" icon="special://skin/extras/icons/embycon.png">DefaultSearch-EmbyconcloneEpisode</shortcut>
+		<shortcut label="EmbyconClone2 Movies" type="571" icon="special://skin/extras/icons/embycon.png">DefaultSearch-Embyconclone2Movies</shortcut>
+		<shortcut label="EmbyconClone2 TVShows" type="571" icon="special://skin/extras/icons/embycon.png">DefaultSearch-Embyconclone2Shows</shortcut>
+		<shortcut label="EmbyconClone2 Episode" type="571" icon="special://skin/extras/icons/embycon.png">DefaultSearch-Embyconclone2Episode</shortcut>
+		<shortcut label="EmbyconClone3 Movies" type="571" icon="special://skin/extras/icons/embycon.png">DefaultSearch-Embyconclone3Movies</shortcut>
+		<shortcut label="EmbyconClone3 TVShows" type="571" icon="special://skin/extras/icons/embycon.png">DefaultSearch-Embyconclone3Shows</shortcut>
+		<shortcut label="EmbyconClone3 Episode" type="571" icon="special://skin/extras/icons/embycon.png">DefaultSearch-Embyconclone3Episode</shortcut>
+		<shortcut label="EmbyconClone4 Movies" type="571" icon="special://skin/extras/icons/embycon.png">DefaultSearch-Embyconclone4Movies</shortcut>
+		<shortcut label="EmbyconClone4 TVShows" type="571" icon="special://skin/extras/icons/embycon.png">DefaultSearch-Embyconclone4Shows</shortcut>
+		<shortcut label="EmbyconClone4 Episode" type="571" icon="special://skin/extras/icons/embycon.png">DefaultSearch-Embyconclone4Episode</shortcut>
+		<shortcut label="EmbyconClone5 Movies" type="571" icon="special://skin/extras/icons/embycon.png">DefaultSearch-Embyconclone5Movies</shortcut>
+		<shortcut label="EmbyconClone5 TVShows" type="571" icon="special://skin/extras/icons/embycon.png">DefaultSearch-Embyconclone5Shows</shortcut>
+		<shortcut label="EmbyconClone5 Episode" type="571" icon="special://skin/extras/icons/embycon.png">DefaultSearch-Embyconclone5Episode</shortcut>
+		<shortcut label="EmbyconClone6 Movies" type="571" icon="special://skin/extras/icons/embycon.png">DefaultSearch-Embyconclone6Movies</shortcut>
+		<shortcut label="EmbyconClone6 TVShows" type="571" icon="special://skin/extras/icons/embycon.png">DefaultSearch-Embyconclone6Shows</shortcut>
+		<shortcut label="EmbyconClone6 Episode" type="571" icon="special://skin/extras/icons/embycon.png">DefaultSearch-Embyconclone6Episode</shortcut>
+		<shortcut label="EmbyconClone7 Movies" type="571" icon="special://skin/extras/icons/embycon.png">DefaultSearch-Embyconclone7Movies</shortcut>
+		<shortcut label="EmbyconClone7 TVShows" type="571" icon="special://skin/extras/icons/embycon.png">DefaultSearch-Embyconclone7Shows</shortcut>
+		<shortcut label="EmbyconClone7 Episode" type="571" icon="special://skin/extras/icons/embycon.png">DefaultSearch-Embyconclone7Episode</shortcut>
+		<shortcut label="HBO" type="571" icon="special://skin/extras/icons/hbo.png">DefaultSearch-HBO</shortcut>
     </customsearchdefaultitems-groupings>
 
     <!-- Hub Grouping -->

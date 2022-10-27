@@ -6,6 +6,14 @@
         <action>ReloadSkin()</action>
         <icon>special://skin/extras/icons/power.png</icon>
     </shortcut>
+	<shortcut>
+		<defaultID>plugin.kill.kodi</defaultID>
+		<label>Kill Kodi</label>
+		<label2>Power Menu Shortcut</label2>
+		<icon>special://skin/extras/icons/folder.png</icon>
+		<thumb>special://skin/extras/icons/1_kill2.png</thumb>
+		<action>ActivateWindow(10001,"plugin://plugin.kill.kodi/",return)</action>
+	</shortcut>
     <shortcut>
         <label2>Power Menu Shortcut</label2>
         <label>13012</label>
@@ -41,6 +49,26 @@
         <visible>System.CanReboot</visible>
         <icon>special://skin/extras/icons/power.png</icon>
     </shortcut>
+	<shortcut>
+		<defaultID>reboottoandroid</defaultID>
+		<label>Reboot to Android</label>
+		<label2>Power Menu Shortcut</label2>
+		<icon>special://skin/extras/icons/android.png</icon>
+		<thumb />
+		<action>System.ExecWait("/usr/sbin/rebootfromnand")</action>
+		<action>Reboot()</action>
+		<visible>System.PathExist("/dev/env")</visible>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID>13005</defaultID>
+		<label>13005</label>
+		<label2>Kodi Command</label2>
+		<icon>special://skin/extras/icons/power.png</icon>
+		<thumb />
+		<action>ShutDown()</action>
+		<disabled>True</disabled>
+	</shortcut>
     <shortcut>
         <label2>Power Menu Shortcut</label2>
         <label>20126</label>
